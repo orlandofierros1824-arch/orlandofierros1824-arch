@@ -24,8 +24,6 @@
 ### Paper System-LP
 Sistema que gestiona el inventario para una papelería 
 
-"Repositorio"                                                "Demo"
-
 [https://github.com/orlandofierros1824-arch/Paper-System-LP] [https://paper-system-lp.onrender.com/]
 
 ### Carpent VR
