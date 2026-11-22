@@ -11,6 +11,7 @@
 - CSS
 - JavaScript
 - SQL
+- Prolog
   
 ### Herramientas de Desarrollo
 - Visual SC
@@ -18,7 +19,6 @@
 - MYSQL Workbench
 - Node.js
 - Render
-- Prolog
 
 ## Proyectos Destacados
 ### Paper System-LP
