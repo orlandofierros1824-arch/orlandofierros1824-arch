@@ -1,7 +1,7 @@
 # 👋 Hola! Soy Orlando.
     Estudiante de Ingeniería Informática | Enfoque en desarrollo de Software, Gestión 
     de Bases de Datos, Fundamentos de IA y Optimización de sistemas.
-
+📍Guadalajara, Jalisco, México. 
 
 ## Tecnologías y Herramientas
 ###Lenguajes y Tecnologías
