@@ -22,14 +22,14 @@
 
 ## Proyectos Destacados
 ### Paper System-LP
-    Sistema que gestiona el inventario para una papelería
-    [https://github.com/orlandofierros1824-arch/Paper-System-LP] [https://paper-system-lp.onrender.com/]
+Sistema que gestiona el inventario para una papelería
+[https://github.com/orlandofierros1824-arch/Paper-System-LP] [https://paper-system-lp.onrender.com/]
 
 ### Carpent VR
-    Aplicación orientada a visualización de productos y servicios en una
-    carpintería.
+Aplicación orientada a visualización de productos y servicios en una
+carpintería.
 
 ### Sistema experto
-    Creación de sistema experto que representa conocimiento mediante 
-    hechos y reglas utilizando consultas y inferencia lógica.
+Creación de sistema experto que representa conocimiento mediante 
+hechos y reglas utilizando consultas y inferencia lógica.
 
